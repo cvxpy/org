@@ -62,7 +62,7 @@ The current members of the Steering Committee are:
 *   Steven Diamond ([BlackRock AI](https://stevendiamond.me/))
 *   Akshay Agrawal ([Stanford](https://www.akshayagrawal.com/))
 *   Bartolomeo Stellato ([Princeton](https://stellato.io/))
-*   Riley Murray ([Caltech](https://rileyjmurray.wordpress.com/))
+*   Riley Murray ([Berkeley](https://rileyjmurray.wordpress.com/))
 
 A member of the Steering Committee may leave the committee by notifying the Steering Committee and Project Maintainers. The remaining Steering Committee members, in consultation with the Project Maintainers, will invite a member of the community to join in order to maintain a quorum of five members.
 
