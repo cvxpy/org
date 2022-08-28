@@ -148,6 +148,6 @@ Individuals who have contributed significantly to the development of CVXPY, for 
 
 ### **Developer Calls**
 
-The Steering Committee hosts quarterly developer calls to discuss CVXPY-related business. 
+The Steering Committee hosts semiannual developer calls to discuss CVXPY-related business. 
 
 The precise time of a given call is determined one month ahead of time by discussions on the “developer-calls” channel of the CVXPY Discord Server. 
