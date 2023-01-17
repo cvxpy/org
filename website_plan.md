@@ -1,7 +1,7 @@
-Web design for applied math open-source software project
+# Web design for applied math open-source software project
 
-Essential information  
-—--------------------  
+## Essential information  
+ 
 Project scope: We’re looking for someone to revamp the online documentation and welcome page at cvxpy.org.
 
 Budget: We received a $4k grant from a nonprofit to get this work done.
@@ -15,8 +15,8 @@ Required skillset:
 Optional, but appreciated, skillset:
  * Some background in math
 
-Where we are and where we want to be  
-—-----------------------------------  
+## Where we are and where we want to be  
+
 CVXPY focuses entirely on a type of optimization known as “convex optimization.” It has made major strides in democratizing the use of this type of optimization across scientific and engineering fields. Much of this success can be attributed to the quality of CVXPY's web documentation in its early years. However, many features have been added to CVXPY since the website was last designed. As a result, our web documentation has become hard for new users to navigate. At the same time, we have longstanding users (e.g., in industry and at national labs) who have a hard time learning about our most advanced capabilities.
 
 Our current website is built with a basic sphinx template. Notably, it lacks the interactivity required to curate information to different users. We would like you to help modernize our website to present information at different levels of granularity without having to rely solely on different levels of "headings" in a long web page. One example is in information about the wide range of third-party libraries that CVXPY relies on for the actual numerical optimization process. This information is currently contained in the "Advanced Features" section of the documentation [1], which houses many unrelated topics and thus would greatly benefit from a more flexible structure.
@@ -27,8 +27,7 @@ Another place where we need to improve the presentation of information is in the
 [2] https://www.cvxpy.org/tutorial/functions/index.html  
 
 
-How to apply
------------------
+## How to apply
 
 Email us at cvxpydevs@gmail.com with the following:
  * Your portfolio/links to sites you’ve made in the past
