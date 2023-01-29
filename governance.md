@@ -32,6 +32,7 @@ Project Maintainers lead the technical development of the CVXPY project, and the
 *   Steven Diamond ([@SteveDiamond](https://github.com/SteveDiamond))
 *   Akshay Agrawal ([@akshaya](https://github.com/akshayka))
 *   Riley Murray ([@rileyjmurray](https://github.com/rileyjmurray/))
+*   Philipp Schiele ([@phschiele](https://github.com/phschiele))
 *   Bartolomeo Stellato ([@bstellato](https://github.com/bstellato))
 
 A new maintainer may be added by consensus of the current Project Maintainers  and notification to the Steering Committee.
