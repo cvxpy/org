@@ -19,10 +19,10 @@ Again, consider a general optimization problem *P*, and it's dual *D*:
 
 \begin{alignat*}{3}
     &              &\quad & \text{\textbf{D}}\\
-    &\mathop{\text{max}}_{\lambda,\nu}\mathop{\text{min}}_{x}&\quad & g(\lambda,\nu)\\
+    &\mathop{\text{max}}_{\lambda,\nu}&\quad & g(\lambda,\nu)\\
     &\text{subject to}&\quad & \lambda\geq 0
 \end{alignat*}
-Where, $g(\lambda,\nu)=\left( f_{0}(x)+\sum_{i=1}^{m}\lambda_{i} & f_{i}(x) & +\sum_{i=1}^{p}\nu_{i}h_{i}(x)\right)$
+Where, $g(\lambda,\nu)=\mathop{\text{min}}_{x}\left( f_{0}(x)+\sum_{i=1}^{m}\lambda_{i} & f_{i}(x) & +\sum_{i=1}^{p}\nu_{i}h_{i}(x)\right)$
 1. *Stationarity of the Lagrangian*,\newline =cvxpy/tests/solver_test_helpers.py:SolverTestHelper::=\newline =check_stationary_lagrangian=
    \begin{equation}
    \mathbf{0}\in\partial\left( f_{0}(x)+\sum_{i=1}^{m}\lambda_{i} & f_{i}(x) & +\sum_{i=1}^{p}\nu_{i}h_{i}(x)\right)
