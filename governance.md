@@ -59,7 +59,7 @@ The current members of the Steering Committee are:
 
 
 
-*   Stephen Boyd ([Stanford](https://web.stanford.edu/~boyd/))
+*   Philipp Schiele ([LMU Munich](https://www.philippschiele.com/))
 *   Steven Diamond ([Gridmatic](https://stevendiamond.me/))
 *   Akshay Agrawal ([Stanford](https://www.akshayagrawal.com/))
 *   Bartolomeo Stellato ([Princeton](https://stellato.io/))
