@@ -60,7 +60,7 @@ The current members of the Steering Committee are:
 
 
 *   Stephen Boyd ([Stanford](https://web.stanford.edu/~boyd/))
-*   Steven Diamond ([BlackRock AI](https://stevendiamond.me/))
+*   Steven Diamond ([Gridmatic](https://stevendiamond.me/))
 *   Akshay Agrawal ([Stanford](https://www.akshayagrawal.com/))
 *   Bartolomeo Stellato ([Princeton](https://stellato.io/))
 *   Riley Murray ([Berkeley](https://rileyjmurray.wordpress.com/))
