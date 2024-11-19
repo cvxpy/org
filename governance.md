@@ -34,6 +34,7 @@ Project Maintainers lead the technical development of the CVXPY project, and the
 *   Riley Murray ([@rileyjmurray](https://github.com/rileyjmurray/))
 *   Philipp Schiele ([@phschiele](https://github.com/phschiele))
 *   Bartolomeo Stellato ([@bstellato](https://github.com/bstellato))
+*   Parth Nobel ([Stanford](https://ptnobel.github.io/))
 
 A new maintainer may be added by consensus of the current Project Maintainers  and notification to the Steering Committee.
 
@@ -64,6 +65,7 @@ The current members of the Steering Committee are:
 *   Akshay Agrawal ([Stanford](https://www.akshayagrawal.com/))
 *   Bartolomeo Stellato ([Princeton](https://stellato.io/))
 *   Riley Murray ([Berkeley](https://rileyjmurray.wordpress.com/))
+*   Parth Nobel ([Stanford](https://ptnobel.github.io/))
 
 A member of the Steering Committee may leave the committee by notifying the Steering Committee and Project Maintainers. The remaining Steering Committee members, in consultation with the Project Maintainers, will invite a member of the community to join in order to maintain a quorum of five members.
 
