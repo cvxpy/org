@@ -88,7 +88,7 @@ All non-financial decisions are made via consensus of the Project Maintainers. E
 
 Code-related decisions, such as when a pull request is ready to be accepted and merged, should be discussed via the relevant GitHub issues and pull requests. If consensus cannot be achieved, the community member proposing the change may be invited by a project maintainer to present their proposal at a developer call for further discussion and community input.
 
-Changes to any public API require explicit approval (in the form of an "Approval" on a GitHub review) from at least half of the Project Maintainers.
+Changes to any public API require explicit approval (in the form of an "Approval" on a GitHub review) from at least two Project Maintainers (not including the PR author).
 
 Non-code-related decisions, such as long-term strategic planning for CVXPY, should either be discussed in a GitHub issue, or tabled as an agenda item and discussed on a developer call.
 
