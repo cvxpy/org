@@ -27,14 +27,11 @@ Due to his role in the creation of CVXPY, [Steven Diamond](https://stevendiamond
 
 Project Maintainers lead the technical development of the CVXPY project, and they are the ultimate authority on the direction of the CVXPY project. The current Project Maintainers are:
 
-
-
 *   Steven Diamond ([@SteveDiamond](https://github.com/SteveDiamond))
-*   Akshay Agrawal ([@akshaya](https://github.com/akshayka))
 *   Riley Murray ([@rileyjmurray](https://github.com/rileyjmurray/))
 *   Philipp Schiele ([@phschiele](https://github.com/phschiele))
-*   Bartolomeo Stellato ([@bstellato](https://github.com/bstellato))
-*   Parth Nobel ([@PTNobel](https://ptnobel.github.io/))
+*   Parth Nobel ([@PTNobel](https://github.com/PTNobel))
+*   William Zhang ([@Transurgeon](https://github.com/Transurgeon))
 
 A new maintainer may be added by consensus of the current Project Maintainers  and notification to the Steering Committee.
 
@@ -44,8 +41,10 @@ Before becoming a maintainer, it is expected that the community member will have
 ### **Emeritus Project Maintainers**
 
 
-Emeritus Project Maintainers are community members who were Project Maintainers, but have stepped back to a less active role. A Project Maintainer may choose to switch to emeritus status by informing the other Project Maintainers and the Steering Committee.
+Emeritus Project Maintainers are community members who were Project Maintainers, but have stepped back to a less active role. A Project Maintainer may choose to switch to emeritus status by informing the other Project Maintainers and the Steering Committee. The current Emeritus Project Maintainers are:
 
+*   Akshay Agrawal ([@akshaya](https://github.com/akshayka))
+*   Bartolomeo Stellato ([@bstellato](https://github.com/bstellato))
 
 ### **Steering Committee**
 
@@ -58,14 +57,11 @@ The Steering Committee supports the Project Maintainers by representing CVXPY in
 
 The current members of the Steering Committee are:
 
-
-
-*   Philipp Schiele ([LMU Munich](https://www.philippschiele.com/))
-*   Steven Diamond ([Gridmatic](https://stevendiamond.me/))
-*   Akshay Agrawal ([Stanford](https://www.akshayagrawal.com/))
-*   Bartolomeo Stellato ([Princeton](https://stellato.io/))
-*   Riley Murray ([Berkeley](https://rileyjmurray.wordpress.com/))
-*   Parth Nobel ([@PTNobel](https://ptnobel.github.io/))
+*   Steven Diamond ([@SteveDiamond](https://github.com/SteveDiamond))
+*   Riley Murray ([@rileyjmurray](https://github.com/rileyjmurray/))
+*   Philipp Schiele ([@phschiele](https://github.com/phschiele))
+*   Parth Nobel ([@PTNobel](https://github.com/PTNobel))
+*   William Zhang ([@Transurgeon](https://github.com/Transurgeon))
 
 A member of the Steering Committee may leave the committee by notifying the Steering Committee and Project Maintainers. The remaining Steering Committee members, in consultation with the Project Maintainers, will invite a member of the community to join in order to maintain a quorum of five members.
 
